@@ -20,4 +20,4 @@ This work by Jan T. Sott is licensed under a [Creative Commons Attribution-Share
 [1]: http://www.discogs.com/label/Apple+Pips
 [2]: https://raw.github.com/idleberg/ApplePips-Xcode/master/images/screenshot.png
 [3]: http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
-[4]: https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/ApplePips-Xcode/&title=Apple&20Pips&20Color%20Scheme&category=software
+[4]: https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/ApplePips-Xcode/&title=Apple%20Pips%20Color%20Scheme&category=software
