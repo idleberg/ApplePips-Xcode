@@ -1,6 +1,6 @@
 # Apple Pips for Xcode
 
-A color scheme inspired by [Cold Spring Fault Less Youth][1], the second album by British band Mount Kimbie.
+A color scheme inspired by the GiveUpArt's artwork for the [Apple Pips][1] record label.
 
 ![Screenshot][2]
 
